@@ -1,0 +1,8 @@
+A:\Učivo\VS programy\C#\III.2016\30.03.2016\Test\Test\Test\bin\Debug\Test.exe.config
+A:\Učivo\VS programy\C#\III.2016\30.03.2016\Test\Test\Test\bin\Debug\Test.exe
+A:\Učivo\VS programy\C#\III.2016\30.03.2016\Test\Test\Test\bin\Debug\Test.pdb
+A:\Učivo\VS programy\C#\III.2016\30.03.2016\Test\Test\Test\obj\Debug\Test.Form1.resources
+A:\Učivo\VS programy\C#\III.2016\30.03.2016\Test\Test\Test\obj\Debug\Test.Properties.Resources.resources
+A:\Učivo\VS programy\C#\III.2016\30.03.2016\Test\Test\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+A:\Učivo\VS programy\C#\III.2016\30.03.2016\Test\Test\Test\obj\Debug\Test.exe
+A:\Učivo\VS programy\C#\III.2016\30.03.2016\Test\Test\Test\obj\Debug\Test.pdb
